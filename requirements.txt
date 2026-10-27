@@ -1,0 +1,5 @@
+faster-whisper
+langchain-ollama
+kokoro-onnx
+numpy
+sounddevice

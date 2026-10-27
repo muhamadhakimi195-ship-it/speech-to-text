@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Private configuration
+.env
+src/VoiceAgent.py
+# Local recordings, output, and models
+output/
+models/
+DockerFile
+compose.yaml
+.dockerignore
+
+
