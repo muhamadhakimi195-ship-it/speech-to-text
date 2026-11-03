@@ -3,3 +3,10 @@ langchain-ollama
 kokoro-onnx
 numpy
 sounddevice
+rich
+langchain
+langchain-chroma
+langchain-text-splitters
+tiktoken
+beautifulsoup4
+requests

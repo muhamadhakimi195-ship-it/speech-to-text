@@ -5,7 +5,7 @@ __pycache__/
 
 # Private configuration
 .env
-src/VoiceAgent.py
+
 # Local recordings, output, and models
 output/
 models/
